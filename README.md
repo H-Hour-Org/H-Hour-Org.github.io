@@ -6,7 +6,7 @@ H-Hour has been a 2 week challenge where I learned some of the Unreal's basics a
 https://github.com/H-Hour-Org/H-Hour-Org.github.io/releases/tag/1.0
 
 ## Link to Youtube 
-[![H-Hour video](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00027.png?raw=true)](https://youtu.be/9DEpsvblBMo)
+[![H-Hour video](https://youtu.be/49jHI3fC3kE)
 
 ## Making of
 ### Concept Phase
