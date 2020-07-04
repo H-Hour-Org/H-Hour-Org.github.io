@@ -20,8 +20,7 @@ The main appeal of the level is it's flow. The player can access the middle area
 Another extra element are the 3 sniper spots, one in the middle which is quite exposed and two of them as a duel on one side of the map.
 
 ### Blockout Phase
-For the blockout I used the free Unity "Blockout" package, which provides the user with many Prefabs, color palettes depending on object type (wall, floor, etc), some rotating and snapping functionalities... 
-https://assetstore.unity.com/packages/tools/level-design/blockout-100388 
+For the blockout I used the free Unity "Blockout" package (https://assetstore.unity.com/packages/tools/level-design/blockout-100388), which provides the user with many Prefabs, color palettes depending on object type (wall, floor, etc), some rotating and snapping functionalities... 
 And here some images at this stage of development:
 ![Blockout](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unity/Blockout10.PNG)
 ![Blockout](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unity/Blpckout8.PNG)
