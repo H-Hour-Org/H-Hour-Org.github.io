@@ -1,0 +1,47 @@
+Character controller:
+https://www.youtube.com/watch?v=DimZmTd5H44&list=LLl8XZ7_4tNsKYS8daEoVIyQ&index=2&t=738s
+
+Flag cloth:
+https://www.youtube.com/watch?v=kjOq8OB_3AQ
+
+Surface sound:
+https://www.youtube.com/watch?v=VTd-_wBepRs
+https://www.dropbox.com/s/o9r59lta0mxahph/SFS_Docs.pdf 
+
+Local volumetric fog:
+https://www.youtube.com/watch?v=ovNdg_RTjHA&t=592s
+
+Destructible mesh:
+https://www.youtube.com/watch?v=ZEX2g1bdqUQ
+
+Péndulo:
+https://www.youtube.com/watch?v=erqu8mGJAYE 
+
+Pintar terreno básico:
+https://www.youtube.com/watch?v=G5WBqv4_NLE
+
+Settear todos los mapas:
+https://www.youtube.com/watch?v=2rOmej5tIkg&list=WL&index=8&t=119s
+
+Añadir materiales de Substance:
+https://www.youtube.com/watch?v=NXOLoBpQvWQ&t=603s
+
+Añadir variación a un material: 
+https://www.youtube.com/watch?v=zUyl2MbcKuE
+https://www.youtube.com/watch?v=70_DH-6YINU
+
+Lighting:
+https://www.youtube.com/watch?v=SeNM9zBPLCA&feature=emb_logo 
+
+Clouds:
+https://www.youtube.com/watch?v=Rhr2B81zS4M 
+
+Flickering light:
+https://www.youtube.com/watch?v=TMlIaycDPuA
+
+Spline:
+https://www.youtube.com/watch?v=bWXI91FdMtk&t=625s
+
+Cinematics:
+https://www.youtube.com/watch?v=k0tob5WBob0
+https://www.youtube.com/watch?v=te_cP7PJdcA 
