@@ -1,12 +1,6 @@
  # H-HOUR 
-H-Hour has been a 2 week challenge where I learned some of the Unreal's basics and applied it to a simple FPS level. 
-![Preview](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00033.png?raw=true)
-
-## Link To Release
-https://github.com/H-Hour-Org/H-Hour-Org.github.io/releases/tag/1.0
-
-## Link to Youtube 
-![H-Hour video](https://youtu.be/49jHI3fC3kE)
+H-Hour has been a 2 week challenge where I learned some of the Unreal's basics and applied it to a simple FPS level. Link to Youtube:
+[![Preview](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00033.png?raw=true)](https://www.youtube.com/watch?v=49jHI3fC3kE)
 
 ## Making of
 ### Concept Phase
