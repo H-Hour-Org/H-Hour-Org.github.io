@@ -1,4 +1,5 @@
  # H-HOUR 
+H-Hour has been a 2 week challenge where I learned some of the Unreal's basics and applied it to a simple FPS level. 
 ![Preview](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00033.png?raw=true)
 
 ## Link To Release
@@ -39,9 +40,13 @@ Once the blockout was set and done and I had gathered all the needed assets, the
 On top of that I spend lots of time working on the terrain, materials, trees, rocks and all the extra props needed to fill the level completely and make it have harmony:
 ![Dress2](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00017.png)
 
+### Overall sketch 
+This is final (flat color) top-down view of the level from which a map draft is usually made to be put in games:
+![Sketch](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/TopViewSchemeHighContrast.png)
+
 ### Improvements
-On top of the actual level feel, there were two more interesting additions: landscape-mesh blending and vertex painting. However, many meshes such as rocks had a complex and individual material setup that hindered the progress. On top of that, Unreal's materials are set up in a way that with my configuration I could not paint more than 3 in one terrain. In regards to vertex paiting, I was experiencing some other problems and I decided to make it a call it a day and apply these techniques in a future more simple environemt. 
+On top of the actual level feel, there were two more interesting additions: landscape-mesh blending and vertex painting. However, many meshes such as rocks had a complex and individual material setup that hindered the progress. On top of that, Unreal's materials are set up in a way that with my configuration I could not paint more than 3 in one terrain. In regards to vertex paiting, I was experiencing some other problems and I decided to call it a day and apply these techniques in a future more simple environment. 
 
 ## Useful links
-Check out the "UsefulLinks.txt" where I gathered Youtube links that were useful for an "Unreal beginner". Also, in the "Media" section you will find more concept, blockout (Unity) and production (Unreal) images.  
+Check out the "UsefulLinks.txt" where I gathered Youtube links that may prove helpful for an "Unreal beginner". Also, in the "Media" section you will find more concept, blockout (Unity) and production (Unreal) images.  
 
