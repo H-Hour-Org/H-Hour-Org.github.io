@@ -41,7 +41,7 @@ On top of that I spend lots of time working on the terrain, materials, trees, ro
 ![Dress2](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00017.png)
 
 ### Overall sketch 
-This is final (flat color) top-down view of the level from which a map draft is usually made to be put in games:
+This is final (flat color) top-down view of the level from which a map draft is usually made to be put in games (note that the military base is empty because it would not be seen):
 ![Sketch](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/TopViewSchemeHighContrast.png)
 
 ### Improvements
