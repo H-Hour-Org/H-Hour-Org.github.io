@@ -23,8 +23,10 @@ Another extra element are the 3 sniper spots, one in the middle which is quite e
 For the blockout I used the free Unity "Blockout" package, which provides the user with many presets, color palettes depending on object type (wall, floor, etc), some rotating and snapping functionalities... 
 
 ### Asset gather Phase
-The level had a 50+ asset database with multiple options for each one so that the chosen assets would resemble a relistic, belligerant and worn out setting. Check out the asset list in "Media". 
-The Sketchfab-Unreal combination was a total success since Sketchfab's models have a more organic feel and Unreal has a native .gltf importer
+The level had a 50+ asset database with multiple options for each one so that the chosen assets would resemble a relistic, belligerant and worn out setting.
+The Sketchfab-Unreal combination was a total success since Sketchfab's models have a more organic feel and Unreal has a native .gltf importer.
+Here you got a useful asset list:
+https://docs.google.com/spreadsheets/d/1SfERhKJnwgl-50f1oxrO_vgLv_ZFZfFwCz3lS7gQ5qA/edit?usp=sharing 
 
 ### Production Phase
 
