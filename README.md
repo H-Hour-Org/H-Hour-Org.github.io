@@ -29,9 +29,8 @@ And here some images at this stage of development:
 ### Asset gather Phase
 The level had a 50+ asset database with multiple options for each one so that the chosen assets would resemble a relistic, belligerant and worn out setting.
 The Sketchfab-Unreal combination was a total success since Sketchfab's models have a more organic feel and Unreal has a native .gltf importer.
-Here you got a useful asset list:
+Here you got a useful asset list anf the mudbox:
 https://docs.google.com/spreadsheets/d/1SfERhKJnwgl-50f1oxrO_vgLv_ZFZfFwCz3lS7gQ5qA/edit?usp=sharing 
-Here is the mudbox:
 ![Concept](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Concept/Mudbox.png)
 
 ### Production Phase
