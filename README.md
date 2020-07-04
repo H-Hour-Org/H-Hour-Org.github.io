@@ -35,9 +35,9 @@ https://docs.google.com/spreadsheets/d/1SfERhKJnwgl-50f1oxrO_vgLv_ZFZfFwCz3lS7gQ
 
 ### Production Phase
 Once the blockout was set and done and I had gathered all the needed assets, the new objective was to "dress" the blockout just as it was at that point. Here is an example:
-![Dress](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00001.png)
+![Dress](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00001.png)  
 On top of that I spend lots of time working on the terrain, materials, trees, rocks and all the extra props needed to fill the level completely and make it have harmony:
-![Dress](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot00007.png)
+![Dress](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unreal/HighresScreenshot000017.png)
 
 ### Improvements
 On top of the actual level feel, there were two more interesting additions: landscape-mesh blending and vertex painting. However, many meshes such as rocks had a complex and individual material setup that hindered the progress. On top of that, Unreal's materials are set up in a way that with my configuration I could not paint more than 3 in one terrain. In regards to vertex paiting, I was experiencing some other problems and I decided to make it a call it a day and apply these techniques in a future more simple environemt. 
