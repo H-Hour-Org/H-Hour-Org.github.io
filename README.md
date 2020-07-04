@@ -15,9 +15,9 @@ The map has only had one reference, Cove from COD: Black Ops 2. The reason being
 At that moment I thought about some artificial elements that could be added on top of the natural base (water, sader, rocks, palm trees...). Those elements are the following: containers, ruins, the military base, dead fish for covers... 
 ![Concept](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Concept/Concept.png)
 
-The main appeal of the level is it's flow. The player can access the middle area and go back from 3 point, although there are another 2 which are only one way around: a ladder to the middle and a palm tree that from the middle. Each side thus has different benefits. 
+The main appeal of the level is it's flow. The player can access the middle area and go back from 3 spots, although there are another 2 which are only one way around: a ladder to the middle and a palm tree that from the middle. Each side thus has different benefits. 
 
-Another extra element are the 3 sniper spots, one in the middle which is quite exposed and two of them as a duel on one side of the map
+Another extra element are the 3 sniper spots, one in the middle which is quite exposed and two of them as a duel on one side of the map.
 
 ### Blockout Phase
 For the blockout I used the free Unity "Blockout" package, which provides the user with many presets, color palettes depending on object type (wall, floor, etc), some rotating and snapping functionalities... 
@@ -25,7 +25,7 @@ https://assetstore.unity.com/packages/tools/level-design/blockout-100388
 And here some images at this stage of development:
 ![Blockout](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unity/Blockout10.PNG)
 ![Blockout](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unity/Blpckout8.PNG)
-![Blockout](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unity/Blockout4.PNG)
+![Blockout](https://github.com/H-Hour-Org/H-Hour-Org.github.io/blob/master/Media/Unity/blockout4.PNG)
 
 ### Asset gather Phase
 The level had a 50+ asset database with multiple options for each one so that the chosen assets would resemble a relistic, belligerant and worn out setting.
